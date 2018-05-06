@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>8P9V9XPO3RKPl6jcDWNSLBoZqjw=</dsig:DigestValue>
+        <dsig:DigestValue>7lKNiYngRHIudS0/TPp1tr9CUkA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -59,7 +59,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>O3Dh8pCa5y5R7j0ZEK3I8YHTO7o=</dsig:DigestValue>
+      <dsig:DigestValue>5puf2O0tEZHqGtciveQ2BnGKmfo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="F1Vermittler.exe.config" size="167">

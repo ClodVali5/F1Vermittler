@@ -3,7 +3,7 @@
 	<AppData>
 		<Classname>CalcFrame</Classname>
 		<Appname>Rechner</Appname>
-		<ComPortName>COM3</ComPortName>
+		<ComPortName>COM5</ComPortName>
 		<Presskey>F1</Presskey>
 	</AppData>
 </AppConfiguration>
