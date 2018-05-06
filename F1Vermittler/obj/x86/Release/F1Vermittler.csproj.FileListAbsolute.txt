@@ -1,0 +1,15 @@
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\bin\x86\Release\F1Vermittler.exe.config
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\obj\x86\Release\F1Vermittler.Start.resources
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\obj\x86\Release\F1Vermittler.Properties.Resources.resources
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\obj\x86\Release\F1Vermittler.csproj.GenerateResource.Cache
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\obj\x86\Release\F1Vermittler.exe
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\obj\x86\Release\F1Vermittler.pdb
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\bin\x86\Release\Configuration\App.xml
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\bin\x86\Release\Tool\spyxx.exe
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\bin\x86\Release\Tool\spyxxhk.dll
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\bin\x86\Release\F1Vermittler.exe.manifest
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\bin\x86\Release\F1Vermittler.application
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\bin\x86\Release\F1Vermittler.exe
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\bin\x86\Release\F1Vermittler.pdb
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\obj\x86\Release\F1Vermittler.exe.manifest
+D:\Programmieren\F1Vermittler_Funktioniert_Timer\F1Vermittler\obj\x86\Release\F1Vermittler.application

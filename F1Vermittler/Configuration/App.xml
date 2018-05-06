@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AppConfiguration>
+	<AppData>
+		<Classname>CalcFrame</Classname>
+		<Appname>Rechner</Appname>
+		<ComPortName>COM3</ComPortName>
+		<Presskey>F1</Presskey>
+	</AppData>
+</AppConfiguration>

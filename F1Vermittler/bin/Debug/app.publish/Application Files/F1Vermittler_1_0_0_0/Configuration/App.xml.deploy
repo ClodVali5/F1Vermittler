@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AppConfiguration>
+	<AppData>
+		<Classname>CalcFrame</Classname>
+		<Appname>Rechner</Appname>
+		<ComPortName>COM5</ComPortName>
+	</AppData>
+</AppConfiguration>
